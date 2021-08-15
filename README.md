@@ -1,2 +1,5 @@
-# word_embedding
-This is a state-of-the-art review of the main word embedding techniques that can be used to make sense of textual information in a machine learning context.
+# Livrables écrits
+
+E1 - rapport associé au projet chef d'oeuvre
+E2 - rapport associé à l'amélioration d'un projet d'IA
+E3 - état de l'art concernant le word embedding
